@@ -57,7 +57,7 @@ If you want to enable or disable guest access in groups, you can do so in the <a
 
 If the guest already exists in your directory, you can add them to your groups from the <a href="https://go.microsoft.com/fwlink/p/?linkid=2052855" target="_blank">Microsoft 365 admin center</a>. (Groups with dynamic membership must be [managed in Microsoft Entra ID](/azure/active-directory/enterprise-users/groups-create-rule).)
   
-1. In the admin center, go to **Teams & g****roups** > **[Active teams & groups](https://go.microsoft.com/fwlink/p/?linkid=2052855)**.
+1. In the admin center, go to **Teams & groups** > **[Active teams & groups](https://go.microsoft.com/fwlink/p/?linkid=2052855)**.
 
 1. Select the group you want to add the guest to, and select **Membership > Members**. 
 
